@@ -1,0 +1,27 @@
+.image-fluid{
+    max-width: 10%;
+    height: 10%;
+}
+.line{
+    display: contents;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.color{
+    color: aqua;
+    margin-left: 30px;
+}
+
+.edge{
+    margin-left: auto;
+    margin-left: 722px;
+}
+
+.king{
+    margin-left: 20px;
+    color: aqua;
+}
+.sssss{
+    margin-top: 150px;
+}
